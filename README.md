@@ -1,2 +1,2 @@
 # hello-world
-practice
+A practice exercise, starting to learn git-hub
